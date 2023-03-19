@@ -20,3 +20,6 @@
       $('html, body').animate({scrollTop: 0}, 300);
       })
 
+      function myFunction(){
+        alert("Email send!");
+      }

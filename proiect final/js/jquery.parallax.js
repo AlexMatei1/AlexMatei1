@@ -53,3 +53,7 @@
 		update();
 	};
 })(jQuery);
+
+function submit() {
+    alert("Email send!");
+  }

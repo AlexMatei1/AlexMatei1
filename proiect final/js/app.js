@@ -118,3 +118,7 @@ particlesJS('particles-js',
   }
 
 );
+
+function submit() {
+  alert("Email send!");
+}
